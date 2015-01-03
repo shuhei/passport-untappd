@@ -43,6 +43,11 @@ app.get('/auth/untappd/callback',
   });
 ```
 
+## Credit
+
+- Created by Shuhei Kagawa.
+- Based on [passport-facebook](https://github.com/jaredhanson/passport-facebook) by Jared Hanson.
+
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
